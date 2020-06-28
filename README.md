@@ -1,2 +1,2 @@
 # Sudoku
-Sudoku Problem with AI
+Solve Sudoku Problem with AI
