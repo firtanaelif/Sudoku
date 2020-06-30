@@ -11,4 +11,4 @@ sudoku_inputs = ""
 
 *******************************
 
-* Diğer farklı sudoku problemlerinin çözülmesi için "search.py" dosyasından text isminidi değiştiriniz.
+* Diğer farklı sudoku problemlerinin çözülmesi için "search.py" dosyasından text ismini değiştiriniz.
